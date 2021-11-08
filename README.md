@@ -2,6 +2,8 @@
 
 In this program, I have designed an object system(which is similar to a **JavaScript Object** and is very hard given that all I really have in C is fixed length data types).
 
+![Working Example](https://i.stack.imgur.com/x0sPl.png)
+
 The only thing I knew before beginning was about the concept of a [linked list](https://www.geeksforgeeks.org/linked-list-set-1-introduction/) being a way to have an *"array"* which when taught in school didn't seem to make sense because you could not directly access anything in the array besides the `next` pointer.
 
 Making an *"array"* like that means to access *"position x"* you would have to loop *x* times in just to access it, which is more similar to a nested object than an array. However this *"nested object"* can only have the struct's pre-set *"keys"*(those being the variables inside the struct on declaration)
