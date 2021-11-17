@@ -1,6 +1,6 @@
 # Object made in C
 
-In this program, I have designed an object system *without any maps, linear searches or binary searches*(which is similar to a **JavaScript Object** and is very hard given that all I really have in C is fixed length data types).
+In this program, I have designed an object system (which is similar to a **JavaScript Object** and is very hard given that all I really have in C is fixed length data types)~~*without any maps, linear searches or binary searches*~~.
 
 ![Working Example](https://i.stack.imgur.com/x0sPl.png)
 
